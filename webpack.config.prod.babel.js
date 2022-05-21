@@ -194,6 +194,7 @@ const webpackProdConfig = {
 								postcssPresetEnv({
 									stage: 0,
 									importFrom: [
+										'./config/palette.css', // If need support IE11
 										{
 											customMedia: media,
 											customProperties: palette,

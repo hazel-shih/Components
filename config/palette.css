@@ -1,0 +1,45 @@
+:root {
+	/* neutral */
+	--neutral-n1-primary-text: #1b212b;
+	--neutral-n2-secondary-text: #475161;
+	--neutral-n3-info-text: #748094;
+	--neutral-n4-placeholder-or-disable: #adb5c1;
+	--neutral-n5-div: #dadde2;
+	--neutral-n6-background: #f3f5f9;
+
+	/* primary */
+	--primary-background: #f1f9ff;
+	--primary-hover: #c0ecff;
+	--primary: #0fa9de;
+	--primary-pressed: #007ca3;
+	--primary-image: #016d8f;
+
+	/* secondary */
+	--secondary-background: #fff8e1;
+	--secondary: #ffc42e;
+	--secondary-pressed: #e39600;
+
+	/* red */
+	--red-r1-background: #ffefef;
+	--red-r3-alert: #f36161;
+	--red-r5-pressed: #ac3737;
+
+	/* green */
+	--green-g1-background: #d9f7ee;
+	--green-g3-success: #2ab58b;
+	--green-g5: #0b805c;
+
+	/* black */
+	--black-b1-primary: #000;
+	--black-b2-overly: rgb(0 0 0 / 60%);
+	--black-b3-disabled: rgb(0 0 0 / 38%);
+	--black-b4-pressed: rgb(0 0 0 / 10%);
+	--black-b5-hover: rgb(0 0 0 / 5%);
+
+	/* white */
+	--white-w1-highlight: #fff;
+	--white-w2-primary: rgb(255 255 255 / 87%);
+	--white-w3-secondary: rgb(255 255 255 / 60%);
+	--white-w4-dark-disabled: rgb(255 255 255 / 38%);
+	--white-w5-dark-div: rgb(255 255 255 / 10%);
+}

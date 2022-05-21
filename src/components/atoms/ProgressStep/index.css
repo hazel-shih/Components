@@ -1,10 +1,10 @@
 :root {
-	--primary: #82dbd8;
-	--disabled: #d1d1d1;
+	--line-width: var(--line-width);
 }
 
 .progress-step {
 	width: 50%;
+
 	& > .progress-container {
 		display: flex;
 		justify-content: space-between;
@@ -15,11 +15,11 @@
 			position: absolute;
 			background-color: var(--primary);
 			height: 2px;
-			width: 50%;
+			max-width: 100%;
+			width: var(--line-width);
 			z-index: -1;
 			top: 50%;
 			transform: translateY(-50%);
-			width: 50%;
 			transition: 0.4s ease;
 		}
 
@@ -30,25 +30,28 @@
 			background-color: white;
 			width: 30px;
 			height: 30px;
-			border: 2px solid var(--primary);
 			border-radius: 50%;
-			color: var(--disabled);
+			color: var(--neutral-n3-info-text);
 			font-weight: 500;
 			font-size: 12px;
 			transition: 0.4s ease;
+			border: 2px solid var(--neutral-n5-div);
+
+			&.active {
+				border: 2px solid var(--primary);
+			}
 		}
 	}
 
 	& > .progress-container::before {
 		content: '';
 		position: absolute;
-		color: var(--disabled);
+		background-color: var(--neutral-n5-div);
 		height: 2px;
 		width: 100%;
 		z-index: -1;
 		top: 50%;
 		transform: translateY(-50%);
-		width: 100%;
 	}
 
 	& > .buttons {
@@ -61,15 +64,19 @@
 			padding: 8px 30px;
 			color: white;
 			font-weight: 500;
+
 			& + button {
 				margin-left: 50px;
 			}
+
 			&:active {
 				transform: scale(0.98);
 			}
+
 			&:disabled {
-				background-color: var(--disabled);
+				background-color: var(--neutral-n5-div);
 				cursor: not-allowed;
+
 				&:active {
 					transform: unset;
 				}
