@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`__interactive 1`] = `
+<DocumentFragment>
+  <div
+    class="progressStep"
+  >
+    <div
+      class="progressBar"
+    >
+      <div
+        class="progress"
+      >
+        1
+      </div>
+      <div
+        class="progress"
+      >
+        2
+      </div>
+      <div
+        class="progress"
+      >
+        3
+      </div>
+      <div
+        class="progress"
+      >
+        4
+      </div>
+    </div>
+    <div
+      class="buttons"
+    >
+      <button
+        type="button"
+      >
+        Prev
+      </button>
+      <button
+        type="button"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
