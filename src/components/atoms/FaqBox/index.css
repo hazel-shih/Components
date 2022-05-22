@@ -1,0 +1,84 @@
+.faq {
+	border: 1px solid var(--neutral-n5-div);
+	border-radius: 10px;
+	padding: 25px;
+	margin: 20px;
+	color: var(--neutral-n1-primary-text);
+	position: relative;
+	overflow: hidden;
+	transition: 0.3s ease;
+
+	& > .comment-icon {
+		display: none;
+	}
+
+	& > h2 {
+		font-weight: 500;
+		font-size: 20px;
+	}
+
+	& > p {
+		display: none;
+	}
+
+	& > .angle {
+		position: absolute;
+		top: 25px;
+		right: 25px;
+		width: 25px;
+		height: 25px;
+		cursor: pointer;
+		transition: 0.3s ease;
+
+		& > path {
+			fill: var(--neutral-n4-placeholder-or-disable);
+		}
+	}
+
+	& + .faq {
+		margin-top: 20px;
+	}
+
+	&.active {
+		background-color: white;
+		box-shadow: 0 5px 10px rgba(0 0 0 / 10%);
+
+		& > .comment-icon {
+			display: block;
+			position: absolute;
+			width: 150px;
+			height: 150px;
+			top: 10px;
+			left: 50px;
+
+			& > path {
+				fill: var(--primary-pressed);
+				opacity: 15%;
+			}
+
+			&:first-of-type {
+				transform: rotateY(180deg);
+				top: -25px;
+				left: -25px;
+
+				& > path {
+					fill: var(--green-g3-success);
+				}
+			}
+		}
+
+		& > h2 {
+			margin-bottom: 10px;
+			z-index: 1;
+		}
+
+		& > p {
+			display: block;
+			z-index: 1;
+		}
+
+		& > .angle {
+			transform: rotate(180deg);
+		}
+	}
+}
