@@ -20,7 +20,7 @@ const IncrementingCounter: React.FC<IncrementingCounterProperty> = ({
 	label,
 	className,
 }) => {
-	// 300 is custom speed, the bigger the slower
+	// 300 is just like custom speed, the bigger the slower
 	const increment = targetNumber / 300;
 	const [currentNum, setCurrentNum] = useState<number>(0);
 
