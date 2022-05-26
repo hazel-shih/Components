@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`__interactive 1`] = `
+<DocumentFragment>
+  <div
+    class="themeClock"
+  >
+    <div
+      class="clock"
+    >
+      <div
+        class="needle hour"
+        style="--hour-needle-degree: 48deg;"
+      />
+      <div
+        class="needle minute"
+        style="--minute-needle-degree: 0deg;"
+      />
+      <div
+        class="needle second"
+        style="--second-needle-degree: 0deg;"
+      />
+      <div
+        class="centerPoint"
+      />
+    </div>
+    <div
+      class="numberTime"
+    >
+      <p>
+        2019 / 07 / 01
+      </p>
+      <p>
+        12：00
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

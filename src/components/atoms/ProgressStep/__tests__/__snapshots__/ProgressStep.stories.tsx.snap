@@ -6,10 +6,14 @@ exports[`__interactive 1`] = `
     class="progressStep"
   >
     <div
-      class="progressBar"
+      class="progressContainer"
     >
       <div
-        class="progress"
+        class="line"
+        style="--line-width: 0%;"
+      />
+      <div
+        class="progress active"
       >
         1
       </div>
@@ -28,11 +32,17 @@ exports[`__interactive 1`] = `
       >
         4
       </div>
+      <div
+        class="progress"
+      >
+        5
+      </div>
     </div>
     <div
       class="buttons"
     >
       <button
+        disabled=""
         type="button"
       >
         Prev

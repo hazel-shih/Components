@@ -1,0 +1,64 @@
+:root {
+	--second-needle-degree: var(--second-needle-degree);
+	--minute-needle-degree: var(--minute-needle-degree);
+	--hour-needle-degree: var(--hour-needle-degree);
+}
+
+.theme-clock {
+	width: fit-content;
+	& > .clock {
+		width: 200px;
+		height: 200px;
+		border: 2px solid var(--neutral-n1-primary-text);
+		position: relative;
+		border-radius: 50%;
+
+		& > .needle {
+			position: absolute;
+			height: 65px;
+			width: 3px;
+			background-color: var(--neutral-n1-primary-text);
+			left: 50%;
+			top: 50%;
+			transform-origin: bottom center;
+
+			&.hour {
+				width: 7px;
+				height: 55px;
+				transform: translate(-50%, -100%) rotate(var(--hour-needle-degree));
+			}
+
+			&.minute {
+				width: 5px;
+				height: 70px;
+				transform: translate(-50%, -100%) rotate(var(--minute-needle-degree));
+			}
+
+			&.second {
+				height: 70px;
+				transform: translate(-50%, -100%) rotate(var(--second-needle-degree));
+				background-color: var(--secondary-pressed);
+			}
+		}
+
+		& > .center-point {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 10px;
+			height: 10px;
+			background-color: var(--red-r3-alert);
+			border-radius: 50%;
+		}
+	}
+	& > .number-time {
+		margin-top: 30px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		font-size: 18px;
+		color: var(--neutral-n1-primary-text);
+	}
+}

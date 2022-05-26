@@ -1,0 +1,346 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`__faq 1`] = `
+<DocumentFragment>
+  <div
+    class="faq"
+  >
+    <svg
+      aria-hidden="true"
+      class="svg-inline--fa fa-comment commentIcon"
+      data-icon="comment"
+      data-prefix="fas"
+      focusable="false"
+      role="img"
+      viewBox="0 0 512 512"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+        fill="currentColor"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="svg-inline--fa fa-comment commentIcon"
+      data-icon="comment"
+      data-prefix="fas"
+      focusable="false"
+      role="img"
+      viewBox="0 0 512 512"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+        fill="currentColor"
+      />
+    </svg>
+    <h2>
+      使用 GMO 貨到後付款該怎麼出貨？
+    </h2>
+    <p>
+      GMO 貨到後付款是 Pinkoi 提供給日本客人的一種付款方式，並非特定的運送方式。
+當設計師收到顯示「中華郵政（GMO 貨到後付款）」的訂單時，出貨時請比照一般訂單的出貨程序。並且請務必使用中華郵政 EMS 或是其他有提供追蹤編號的中華郵政寄送方式出貨。
+    </p>
+    <svg
+      aria-hidden="true"
+      class="svg-inline--fa fa-angle-down angle"
+      data-icon="angle-down"
+      data-prefix="fas"
+      focusable="false"
+      role="img"
+      viewBox="0 0 384 512"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M192 384c-8.188 0-16.38-3.125-22.62-9.375l-160-160c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L192 306.8l137.4-137.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-160 160C208.4 380.9 200.2 384 192 384z"
+        fill="currentColor"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`__interactive 1`] = `
+<DocumentFragment>
+  <div
+    class="faqBox"
+  >
+    <div
+      class="faq"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <h2>
+        我有問題，該如何聯繫設計師？
+      </h2>
+      <p>
+        你可以在「設計館頁面」或「商品頁面」上，找到「聯絡設計師」的按鈕。
+      </p>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-angle-down angle"
+        data-icon="angle-down"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 384 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M192 384c-8.188 0-16.38-3.125-22.62-9.375l-160-160c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L192 306.8l137.4-137.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-160 160C208.4 380.9 200.2 384 192 384z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div
+      class="faq"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <h2>
+        如果我跟設計師的語言不同，應該如何與設計師溝通？
+      </h2>
+      <p>
+        Pinkoi 站內信支援自動翻譯，你可以直接輸入中文送出訊息，如果還是無法理解設計師的訊息內容，請 聯繫我們 協助你與設計師溝通。
+      </p>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-angle-down angle"
+        data-icon="angle-down"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 384 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M192 384c-8.188 0-16.38-3.125-22.62-9.375l-160-160c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L192 306.8l137.4-137.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-160 160C208.4 380.9 200.2 384 192 384z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div
+      class="faq"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <h2>
+        商品放進購物車後，選擇寄往台灣地區卻沒有運送方式？
+      </h2>
+      <p>
+        商品放入購物車後，收件國家/地區選擇台灣地區，運送方式想選擇以下方式，例如：7-11 取貨、全家取貨、宅配、快遞等，則需要符合條件。
+      </p>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-angle-down angle"
+        data-icon="angle-down"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 384 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M192 384c-8.188 0-16.38-3.125-22.62-9.375l-160-160c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L192 306.8l137.4-137.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-160 160C208.4 380.9 200.2 384 192 384z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div
+      class="faq"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <h2>
+        購買海外商品時，需要支付關稅嗎？關稅如何計算？
+      </h2>
+      <p>
+        1. 商品從海外發貨，經過海關時有一定機率海關會依規定對貨物進行抽檢或收取稅金，屆時物流業者或海關會向收件人發出繳稅通知，相關稅金與費用由收件方負擔。 2. 關稅金額會在商品入關時，由當地海關計算金額，並以海關計算金額為準，因此 Pinkoi 團隊與設計師無法事先提供預估金額，再請知悉。
+      </p>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-angle-down angle"
+        data-icon="angle-down"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 384 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M192 384c-8.188 0-16.38-3.125-22.62-9.375l-160-160c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L192 306.8l137.4-137.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-160 160C208.4 380.9 200.2 384 192 384z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div
+      class="faq"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-comment commentIcon"
+        data-icon="comment"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M256 32C114.6 32 .0272 125.1 .0272 240c0 49.63 21.35 94.98 56.97 130.7c-12.5 50.37-54.27 95.27-54.77 95.77c-2.25 2.25-2.875 5.734-1.5 8.734C1.979 478.2 4.75 480 8 480c66.25 0 115.1-31.76 140.6-51.39C181.2 440.9 217.6 448 256 448c141.4 0 255.1-93.13 255.1-208S397.4 32 256 32z"
+          fill="currentColor"
+        />
+      </svg>
+      <h2>
+        禮物卡是什麼，如何購買？
+      </h2>
+      <p>
+        想送禮，卻不知道該送什麼嗎？不如送張 禮物卡，讓對方盡情地挑選喜歡的東西吧！Pinkoi 的禮物卡內含購物金，只要在結帳時，輸入卡片上方的號碼便可抵扣等值消費金額，還附有紙卡讓你將想說的話寫上去送給對方，目前有 100 ～ 6000 元新台幣等不同面額的禮物卡，歡迎到 Pinkoi 官方設計館 選購喔！
+      </p>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-angle-down angle"
+        data-icon="angle-down"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 384 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M192 384c-8.188 0-16.38-3.125-22.62-9.375l-160-160c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L192 306.8l137.4-137.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-160 160C208.4 380.9 200.2 384 192 384z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+  </div>
+</DocumentFragment>
+`;
