@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`__interactive 1`] = `
+<DocumentFragment>
+  <div
+    class="wrapper"
+  >
+    <button
+      class="rippleButton"
+      type="button"
+    >
+      CLICK ME
+    </button>
+  </div>
+</DocumentFragment>
+`;

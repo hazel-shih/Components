@@ -1,0 +1,32 @@
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.ripple-button {
+	position: relative;
+	background-color: var(--primary);
+	color: white;
+	padding: 20px 30px;
+	font-weight: 500;
+	overflow: hidden;
+
+	& > .circle-effect {
+		position: absolute;
+		background-color: white;
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+		transform: translate(-50%, -50%) scale(0.5);
+		animation: scale 0.5s ease-in-out;
+	}
+}
+
+@keyframes scale {
+	to {
+		transform: translate(-50%, -50%) scale(3);
+		opacity: 0;
+	}
+}
