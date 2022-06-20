@@ -3,6 +3,7 @@ import 'whatwg-fetch';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
+import DrawCanva from 'components/atoms/DrawCanva';
 
 // A modern alternative to CSS resets
 import 'normalize.css';
@@ -20,6 +21,7 @@ const store = configureStore({});
 ReactDOM.render(
 	<Provider store={store}>
 		<Router history={history} routes={routes} store={store} />
+		<DrawCanva />
 	</Provider>,
 	document.getElementById('content'),
 );
